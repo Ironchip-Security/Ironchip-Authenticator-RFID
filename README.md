@@ -61,7 +61,7 @@ To view your configuration, run the following command:
 ./IronchipRFID c show
 ```
 
-### Step 3: Install service
+### Step 2: Install service
 **Installing the service requires a terminal with Administrator privileges**
 
 Install the service for auto-start when the device powers on:
